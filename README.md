@@ -10,3 +10,4 @@
 
 下面几张图给出了对应包以及其内部类的功能
 
+![image](https://github.com/overridehuhao/light-miaosha-Project/tree/master/images/controller.png)
