@@ -10,4 +10,10 @@
 
 下面几张图给出了对应包以及其内部类的功能
 
-![](https://github.com/overridehuhao/light-miaosha-Project/tree/master/images/controller.png)
+![controller](https://github.com/overridehuhao/light-miaosha-Project/tree/master/images/controller.png)
+![dao](https://github.com/overridehuhao/light-miaosha-Project/tree/master/images/dao.png)
+![dataobject](https://github.com/overridehuhao/light-miaosha-Project/tree/master/images/dataobject.png)
+![error](https://github.com/overridehuhao/light-miaosha-Project/tree/master/images/error.png)
+![response](https://github.com/overridehuhao/light-miaosha-Project/tree/master/images/response.png)
+![service](https://github.com/overridehuhao/light-miaosha-Project/tree/master/images/service.png)
+
